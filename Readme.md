@@ -1,2 +1,2 @@
-Hello github, \n
+Hello github, 
 This is just a test
